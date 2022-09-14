@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "melodic-agency-361612",
+  "private_key_id": "b9e60f0b9dc76defbafe833fc75e407f42c0f504",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCsQcShA3xBF/cr\npxK3ncwKM7TexM7dDqdDiM/MU0+8QSbYw3DHv72BJfn7xv3RAXddGQdbaYOQ60Yx\nZ5BmbJmf7C5pPUs9Ck4+I1JKtCo9BvofZoWb7Ag6gaaQrQHdwoYib4MQVtnlN126\n/9Izkbo/wIlY5Mu03LOrdLniufNWEL0v5BQbdxyu4ct9GtVJbGoBCpaTjw0qti0G\nny8yUU/T7at0BqCBcdrH9OJNff1OQdMNXUqi+rPtfF1DgJ9EpfuBnwJcYqzlRKWL\nJ5DdOS9QCBsOGg1L4m0NNQlZeVMk8VF+TnBQ0QdSXrdPLQ01rNhgjyeW51vWKOXm\ntS+EIazfAgMBAAECggEAAan6NVq9kojwk6/V8HOFT/vqpza0twMuTTl6Lo1p706I\nlHSyjW8cRRB+PANSsx+MCo6lpT0unY9NL6rV06UAnHF8ZF0XXgwLSNTXcKmbVtjP\nLR4rB6BAOaLrmXMZxkigxAEB6gfgcNC1fMZWoQTmSCXV/JZOI0xbaTBwPRhKwLLW\nKlSTVp2awu+fhswPFmNfsYI1RZYMAq1iP6nOuem8w0ypnHrxIvdQBM9n+OddyhHr\nhzGNYivXw2NoeQIV3MooxleMOaona79H+hBSZYk2TXecC+0cfM8cvOBR0ZUd5VRH\nv7aLb1o/XviZRGS6RHTaPUjmqTlL+nwCH1FS+2WLUQKBgQDi/McP4IJZOWy2mXIz\nnrmuElYAHNdoQELncH03Q3cVD6s5twiDMmIyxlT1IG702LRiof7watRKca6DnXND\nz2QGymEaE4qT9KNTHwXlaRCK9xU2ccn949UfyT+LKeb2Bb2kik51et1wqhlvdC1K\nxoiqB27tF7esXR67l9IT9I/aPQKBgQDCRilYC4sB0y3JcYtAj4MME8LUYpZmWW56\n+dW59YIdG6ZsTJoL/TIonCQ+rA0CxusLD+qXq+1kAkRbYLWpDhoxOz+bRjPLJ0dp\n5GPNCw4kmf7JDVFyumUkFg4IxS9o4tkIeASt3A1czjta3T2kN+FVXIWXw3MCfTaW\ndI/vKVSBSwKBgQC0ocXjq5zvVhReR0QrMf+/N5Y6prkAnErhlJIAvW5xUzPGTRK4\nHQsqLsyC+Vly/VSnPRT8y3a++zKOSGjmqI6IHNsi/jQEQ+UJC6IMiwyAGdpGpkzA\n/2Kl1ef8Xc8PL0hYPTvsn2bC9oohOImmfNFaxWmPwZUH1F7VmB60hKVJXQKBgQC5\nCAAKpnvP0iWyzhz18Xm7//o5NGjQtG7gW6FvCuDQ/mvEjDTQJGgoe4ad1lpSAckN\ncSxbJtnjvbEDYxnCGPdjWm3bYsKjxBZlSaywNs5SmAUt0ix33AXGl+bn/X6JJD3X\nrg+u0346nQW1JjC2fq50Ebn/cJzSixV5uSz5eWDN/wKBgC7xZQ/cfdWnOutruDB8\nDtCkixVwVIuL6PpFarNFC1CbcujDMFn29PvHomkwf4Fanlc9t88w0gkwZesR7P3n\n0xy/ouYdUYBeB6zueTSTRHYqXTE+R+a4UOzInStl8NCJENB5ofrzXspr8ZEfOMfj\n5l/6dorA4XD54yonQY+gEj+u\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-d2si-bbq487vkm9g5u5ze1xpmu@melodic-agency-361612.iam.gserviceaccount.com",
+  "client_id": "106355175867633497075",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-d2si-bbq487vkm9g5u5ze1xpmu%40melodic-agency-361612.iam.gserviceaccount.com"
+}
